@@ -35,5 +35,18 @@ I am very careful about the experience, architecture and code quality of the thi
 My resume:
 [IOS Developer Sobin Ilya.pdf](https://github.com/1tirex/1tirex/files/10316583/IOS.Developer.Sobin.Ilya.pdf)
 
-📈 my github stats
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/893/893220.png"></code> My github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=1tirex&show_icons=true&theme=gotham" alt="1tirex" />
