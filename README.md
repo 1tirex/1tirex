@@ -31,9 +31,15 @@ I am very careful about the experience, architecture and code quality of the thi
 <code><img height="20" src="https://seekicon.com/free-icon-download/realm_2.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+**My resume:**  
+
+
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/2986/2986483.png"></code>
-My resume:
 [IOS Developer Sobin Ilya.pdf](https://github.com/1tirex/1tirex/files/10316583/IOS.Developer.Sobin.Ilya.pdf)
+
+
+
+
 
 ![]()
 ![]()
@@ -47,6 +53,21 @@ My resume:
 ![]()
 ![]()
 ![]()
+
+
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
 
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/893/893220.png"></code> My github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=1tirex&show_icons=true&theme=gotham" alt="1tirex" />
