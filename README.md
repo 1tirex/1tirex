@@ -35,7 +35,7 @@ I am very careful about the experience, architecture and code quality of the thi
 
 
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/2986/2986483.png"></code>
-[IOS Developer Sobin Ilya.pdf](https://github.com/1tirex/1tirex/files/10316583/IOS.Developer.Sobin.Ilya.pdf)
+[IOS Developer Sobin Ilya.pdf](https://github.com/1tirex/1tirex/files/10324027/IOS.Developer.Sobin.Ilya.pdf)
 
 
 
