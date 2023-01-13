@@ -85,4 +85,5 @@ I am very careful about the experience, architecture and code quality of the thi
 
 
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/893/893220.png"></code> My github stats:
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=1tirex&count_private=true&show_icons=true&theme=gotham" alt="1tirex" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=1tirex&count_private=true&show_icons=true&theme=gotham" alt="1tirex" /> <p align="right"> <img src="https://leetcard.jacoblin.cool/t1rex" alt="1tirex" />
+
