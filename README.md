@@ -85,13 +85,16 @@ I am very careful about the experience, architecture and code quality of the thi
 
 <p align="left"> <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/893/893220.png"></code> My github stats: 
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=1tirex&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="1tirex" /> 
+<p align="right"> <img src="https://github-readme-streak-stats.herokuapp.com?user=1tirex&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="1tirex" /> <img align="left" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=1tirex" />
   
 <p align="left"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="1tirex" />
 <p align="center"> <img src="https://www.codewars.com/users/1tirex/badges/large" alt="1tirex" /> 
 
 <p align="left"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="1tirex" />
 <p align="center"> <img src="https://leetcard.jacoblin.cool/t1rex" alt="1tirex" />
+  
+  
+<p align="center"> 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=1tirex" alt="1tirex" />
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=1tirex" alt="1tirex" />
-  <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=1tirex&count_private=true"/>
+
