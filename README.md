@@ -69,7 +69,6 @@ I am very careful about the experience, architecture and code quality of the thi
 ![]()
 
 
-
 ![]()
 ![]()
 ![]()
@@ -81,14 +80,16 @@ I am very careful about the experience, architecture and code quality of the thi
 ![]()
 ![]()
 ![]()
-
+![]()
 
 
 <p align="left"> <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/893/893220.png"></code> My github stats: 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=1tirex&count_private=true&show_icons=true" alt="1tirex" /> 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=1tirex&count_private=true" alt="1tirex" /> 
   
-<p align="left"><code align="right"><img height="20" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png"></code> My LeetCode stats:
+<p align="left"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="1tirex" />
+<p align="left"> <img src="https://www.codewars.com/users/1tirex/badges/large" alt="1tirex" /> 
+
+<p align="left"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="1tirex" />
 <p align="left"> <img src="https://leetcard.jacoblin.cool/t1rex" alt="1tirex" />
 
-<p align="left"><code align="right"><img height="20" src="https://gamifylist.com/images/apps/codewars/logo.jpeg"></code> My CodeWars stats:
-<p align="left"> <img src="https://www.codewars.com/users/1tirex/badges/large" alt="1tirex" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=1tirex" alt="1tirex" /> 
