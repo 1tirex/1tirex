@@ -25,11 +25,11 @@ I am very careful about the experience, architecture and code quality of the thi
 **languages and tools:**  
 
 
-<code><img height="20" src="https://cdn4.iconfinder.com/data/icons/social-media-2231/512/23-swift_social-512.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png"></code>
 <code><img height="20" src="https://miro.medium.com/max/300/0*dmd7Gxv_QzTnWr-X.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://seekicon.com/free-icon-download/realm_2.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"></code>
 
 **My resume:**  
 
