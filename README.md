@@ -1,101 +1,52 @@
 
-### Hey there 
-<a href="https://www.instagram.com/sobin_ilya/">
-  <img align="left" alt="@sobin_ilya | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://t.me/sobin_ilya">
-  <img align="left" alt="@sobin_ilya | Telegram" width="22px" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" />
-</a>
-<a href="https://www.linkedin.com/in/sobin-ilya/">
-  <img align="left" alt="sobin-ilya LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+# Hey there 
 
-![]()
+## Hi, my name is Ilya Sobin, I am a passionate iOS developer and freelance software engineer.
 
-<br />
+**About me:**
+iOS developer with experience in creating large-scale applications from scratch to release in the App Store. Specializes in developing custom applications using modern architecture and technologies.
 
-Hi, I'm Sobin Ilya, a passionate iOS developer and freelance software engineer from Batumi, Georgia. My path is just beginning in the world of IT, but every day I understand it better. 
+### Skills and technologies:
+- Frameworks: Alamofire, Spring, SwiftyGif, ﻿Firebase, ﻿Kingfisher, ﻿AppMetricaCore, ﻿ReachabilitySwift, ﻿Starscream, ﻿Sourcery, ﻿Lottie, ﻿SkeletonView, ﻿PocketSVG, ﻿PermissionWizard, SnapKit.
+- Databases: CoreData, Realm, Firebase, UserDefaults.
+- Architectures: MVP, MVC, MVVM, Clean Swift, VIPER, MVI (based on Kotlin).
+- Technologies: AutoLayout, SOLID, CI/CD, Git.
+- Dependency managers: CocoaPods, Carthage.
+- Testing: Unit tests, UI tests.
 
-I am very careful about the experience, architecture and code quality of the things I create. I am also an open source enthusiast. I've learned a lot from the open source community, and I love how collaboration and knowledge sharing has happened through open source.
+### Key advantages:
+I have experience in creating applications on version > 13 iOS from scratch, developing design systems and custom interfaces.
+I understand the life cycle of applications and can write readable and applicable code.
+Worked in close cooperation with project managers, analysts, designers and testers.
+I implemented modern designs and technologies for scalability and stability of applications.
+I constantly strive to learn new technologies and improve my skills.
+I have experience in independent programming
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💼 Do write, [email](mailto:bananchekk@gmail.com)
-
-**languages and tools:**  
-
-
+### languages and tools:
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png"></code>
 <code><img height="20" src="https://miro.medium.com/max/300/0*dmd7Gxv_QzTnWr-X.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://seekicon.com/free-icon-download/realm_2.svg"></code>
 <code><img height="20" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"></code>
 
-**My resume:**  
-
-
+### CV:
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/2986/2986483.png"></code>
-[IOS Developer Sobin Ilya.pdf](https://github.com/1tirex/1tirex/files/10329071/IOS.Developer.Sobin.Ilya.pdf)
+[IOS Developer Sobin Ilya](https://github.com/user-attachments/files/18161836/default.pdf)
 
+## Contact me:
+💼 You can contact me by [email](mailto:bananchekk@gmail.com)
+<br>
 
+<a href="https://www.linkedin.com/in/sobin-ilya/" title="Linkedin">
+  <img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="22" alt="Linkedin" />
+</a>
 
+<a href="https://t.me/sobin_ilya" title="Telegram">
+  <img align="left" alt="Telegram" width="22px" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png"/>
+</a>
 
+<a href="https://izhevsk.hh.ru/applicant/resumes/view?resume=2a431c88ff034b13ac0039ed1f61656d365930" title="CV site HH.ru">
+  <img align="left" alt="HH.ru" width="22px" src="https://tech.hh.ru/api/logos/min-hh-red.png"/>
+</a>
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-
-
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-
-
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-
-
-<p align="left"> <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/893/893220.png"></code> My github stats: 
-
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=1tirex&theme=github-dark-blue&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="1tirex" />
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=1tirex" />
-  
-<p align="left"> <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="1tirex" />
-<p align="center"> <img src="https://www.codewars.com/users/1tirex/badges/large" alt="1tirex" /> 
-
-<p align="left"> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="1tirex" />
-<p align="center"> <img src="https://leetcard.jacoblin.cool/t1rex" alt="1tirex" />
-  
-  
-<p align="center"> 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=1tirex" alt="1tirex" />
-
-
+<br/>
