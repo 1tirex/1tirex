@@ -1,37 +1,31 @@
 
 # Hey there 
 
-## Hi, my name is Ilya Sobin, I am a passionate iOS developer and freelance software engineer.
+## My name is Ilya Sobin, I am a passionate iOS developer and freelance software engineer.
 
-**About me:**
-iOS developer with experience in creating scalable applications from scratch to release in the App Store. I specialize in developing native applications using modern
-architectures (MVI, MVVM). I have experience working with iOS 13+ and creating user interfaces, which allows me to develop productive and convenient applications without using Interface Builder.
+> [!NOTE]
+> **About me:** iOS developer with experience in creating scalable applications from scratch to release in the App Store.
+> I specialize in developing native applications using modern architectures (MVI, MVVM).
+> I have experience working with iOS 13+ and creating user interfaces, which allows me to develop productive and convenient applications without using Interface Builder.
 
 ### Skills and technologies:
-• Languages: Swift, Kotlin (for MVI)
-• Architectures: MVP, MVC, MVVM, MVI
-• Frameworks: Swift, UIKit, SwiftUI, Alamofire, Firebase, Lottie, SnapKit
-• Databases: CoreData, Realm, Firebase, UserDefaults
-• Tools: Git, Fastlane, CocoaPods, Carthage
-• Testing: Unit tests, UI tests
+* Languages: Swift, Kotlin (for MVI)
+* Architectures: MVP, MVC, MVVM, MVI
+* Frameworks: Swift, UIKit, SwiftUI, Alamofire, Firebase, Lottie, SnapKit
+* Databases: CoreData, Realm, Firebase, UserDefaults
+* Tools: Git, Fastlane, CocoaPods, Carthage
+* Testing: Unit tests, UI tests
 
 ### Key advantages:
-• Developed and released a mobile application for a construction company in the App Store from scratch in less than a year.
-• Implemented MVI architecture, which improved scalability and reduced the development time of new modules by 30%.
-• Created a design system and a component library, which reduced the amount of code by 30% and accelerated interface development.
-• Optimized application performance, increasing loading speed by 15%.
+* Developed and released a mobile application for a construction company in the App Store from scratch in less than a year.
+* Implemented MVI architecture, which improved scalability and reduced the development time of new modules by 30%.
+* Created a design system and a component library, which reduced the amount of code by 30% and accelerated interface development.
+* Optimized application performance, increasing loading speed by 15%.
 
 ### Personal qualities:
-• Ability to find optimal solutions for complex problems.
-• I work closely with teams (managers, designers, testers) to achieve common goals.
-• I constantly improve my skills, follow new technologies and trends in iOS development.
-
-### languages and tools:
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png"></code>
-<code><img height="20" src="https://miro.medium.com/max/300/0*dmd7Gxv_QzTnWr-X.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://seekicon.com/free-icon-download/realm_2.svg"></code>
-<code><img height="20" src="https://e7.pngegg.com/pngimages/713/558/png-clipart-computer-icons-pro-git-github-logo-text-logo-thumbnail.png"></code>
+* Ability to find optimal solutions for complex problems.
+* I work closely with teams (managers, designers, testers) to achieve common goals.
+* I constantly improve my skills, follow new technologies and trends in iOS development.
 
 ### CV:
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/2986/2986483.png"></code>
