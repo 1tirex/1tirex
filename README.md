@@ -4,23 +4,27 @@
 ## Hi, my name is Ilya Sobin, I am a passionate iOS developer and freelance software engineer.
 
 **About me:**
-iOS developer with experience in creating large-scale applications from scratch to release in the App Store. Specializes in developing custom applications using modern architecture and technologies.
+iOS developer with experience in creating scalable applications from scratch to release in the App Store. I specialize in developing native applications using modern
+architectures (MVI, MVVM). I have experience working with iOS 13+ and creating user interfaces, which allows me to develop productive and convenient applications without using Interface Builder.
 
 ### Skills and technologies:
-- Frameworks: Alamofire, Spring, SwiftyGif, ﻿Firebase, ﻿Kingfisher, ﻿AppMetricaCore, ﻿ReachabilitySwift, ﻿Starscream, ﻿Sourcery, ﻿Lottie, ﻿SkeletonView, ﻿PocketSVG, ﻿PermissionWizard, SnapKit.
-- Databases: CoreData, Realm, Firebase, UserDefaults.
-- Architectures: MVP, MVC, MVVM, Clean Swift, VIPER, MVI (based on Kotlin).
-- Technologies: AutoLayout, SOLID, CI/CD, Git.
-- Dependency managers: CocoaPods, Carthage.
-- Testing: Unit tests, UI tests.
+• Languages: Swift, Kotlin (for MVI)
+• Architectures: MVP, MVC, MVVM, MVI
+• Frameworks: Swift, UIKit, SwiftUI, Alamofire, Firebase, Lottie, SnapKit
+• Databases: CoreData, Realm, Firebase, UserDefaults
+• Tools: Git, Fastlane, CocoaPods, Carthage
+• Testing: Unit tests, UI tests
 
 ### Key advantages:
-I have experience in creating applications on version > 13 iOS from scratch, developing design systems and custom interfaces.
-I understand the life cycle of applications and can write readable and applicable code.
-Worked in close cooperation with project managers, analysts, designers and testers.
-I implemented modern designs and technologies for scalability and stability of applications.
-I constantly strive to learn new technologies and improve my skills.
-I have experience in independent programming
+• Developed and released a mobile application for a construction company in the App Store from scratch in less than a year.
+• Implemented MVI architecture, which improved scalability and reduced the development time of new modules by 30%.
+• Created a design system and a component library, which reduced the amount of code by 30% and accelerated interface development.
+• Optimized application performance, increasing loading speed by 15%.
+
+### Personal qualities:
+• Ability to find optimal solutions for complex problems.
+• I work closely with teams (managers, designers, testers) to achieve common goals.
+• I constantly improve my skills, follow new technologies and trends in iOS development.
 
 ### languages and tools:
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png"></code>
@@ -31,7 +35,7 @@ I have experience in independent programming
 
 ### CV:
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/2986/2986483.png"></code>
-[IOS Developer Sobin Ilya](https://github.com/user-attachments/files/18161836/default.pdf)
+[IOS Developer Sobin Ilya](https://github.com/user-attachments/files/18767313/default.pdf)
 
 ## Contact me:
 💼 You can contact me by [email](mailto:bananchekk@gmail.com)
