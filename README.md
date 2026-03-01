@@ -31,15 +31,11 @@
 💼 You can contact me by [email](mailto:bananchekk@gmail.com)
 <br>
 
-<a href="https://www.linkedin.com/in/sobin-ilya/" title="Linkedin">
-  <img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="22" alt="Linkedin" />
-</a>
-
 <a href="https://t.me/sobin_ilya" title="Telegram">
   <img align="left" alt="Telegram" width="22px" src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png"/>
 </a>
 
-<a href="https://izhevsk.hh.ru/applicant/resumes/view?resume=2a431c88ff034b13ac0039ed1f61656d365930" title="CV site HH.ru">
+<a href="https://hh.ru/applicant/resumes/view?resume=2a431c88ff034b13ac0039ed1f61656d365930" title="CV site HH.ru">
   <img align="left" alt="HH.ru" width="22px" src="https://tech.hh.ru/api/logos/min-hh-red.png"/>
 </a>
 
