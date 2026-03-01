@@ -27,10 +27,6 @@
 * I work closely with teams (managers, designers, testers) to achieve common goals.
 * I constantly improve my skills, follow new technologies and trends in iOS development.
 
-### CV:
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/2986/2986483.png"></code>
-[IOS Developer Sobin Ilya](https://github.com/user-attachments/files/18767313/default.pdf)
-
 ## Contact me:
 💼 You can contact me by [email](mailto:bananchekk@gmail.com)
 <br>
